@@ -1,16 +1,18 @@
-## 👏 Hi, I'm *your name here*
-##  About Me
-_Share some information about yourself, including your class, major, jobs, and extra-curriculars._
-## ⚒️ Skills
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?logo=powershell&logoColor=white)
-## 🎉 Interests
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-FF6F00?logo=openai&logoColor=white)
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-0052CC?logo=protonvpn&logoColor=white)
-![Open Source](https://img.shields.io/badge/Open%20Source-3DA639?logo=opensourceinitiative&logoColor=white)
-## 🔗 Links
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/<your-handle>)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/<your-handle>)
+# 👋 Hi, I'm James!
 
-_"Your sample quote here!"_
+## 👨‍💻 About Me
+I'm currently a student at the University of Texas at San Antonio
+(UTSA), studying Cyber Intelligence.
+
+I'm interested in learning more about cybersecurity, ethical hacking,
+and how technology can be used to protect information and systems.
+
+I'm currently developing my programming and technical skills through
+my coursework and hands-on labs.
+
+## 📚 Currently Learning
+- Java programming
+- Linux commands and terminal navigation
+- Git and GitHub version control
+- Cybersecurity fundamentals
+- Networking and system security
